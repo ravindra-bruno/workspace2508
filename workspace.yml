@@ -1,0 +1,12 @@
+opencollection: 1.0.0
+info:
+  name: "workspace2508"
+  type: workspace
+
+collections:
+  - name: "Endpoint"
+    path: "collections/Endpoint"
+
+specs:
+
+docs: ''
