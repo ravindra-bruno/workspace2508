@@ -10,6 +10,8 @@ collections:
     path: "collections/collection1"
   - name: "collection2"
     path: "collections/collection2"
+  - name: "brucollection"
+    path: "collections/brucollection"
 
 specs:
 
