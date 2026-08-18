@@ -6,6 +6,10 @@ info:
 collections:
   - name: "Endpoint"
     path: "collections/Endpoint"
+  - name: "collection1"
+    path: "collections/collection1"
+  - name: "collection2"
+    path: "collections/collection2"
 
 specs:
 
